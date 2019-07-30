@@ -28,7 +28,7 @@
     "siteUrl": "undefined",
     "google-analytics": "",
     "gdpr": "",
-    "uniqCompNum": 42,
+    "uniqCompNum": 46,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -145,52 +145,52 @@
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Modern <em>Design</em>",
+                "title": "Website <em>Maker</em>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat corporis, illo omnis quos earum delectus, sunt quasi accusantium doloremque eveniet, eaque laboriosam quo eos temporibus!",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-32-1024x576.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "SpaceM <em>Builder</em>",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab earum iure, repudiandae nobis ullam incidunt dicta molestiae libero, vel impedit doloribus dolorem ratione alias fugit.",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi similique aperiam facere, maxime nisi suscipit harum molestias! Reprehenderit quam dicta, nesciunt neque sed!",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-7064-2000x1333.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Modern <em>Design</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolor ipsa maiores magnam sequi, laborum facere sed doloremque. Aut sed voluptas voluptatibus! Corporis.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Made for <em>You</em>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita dignissimos explicabo non dolor nobis, consectetur officiis optio quibusdam, repellendus harum unde sed saepe odit, quisquam.",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius odio, quis totam, sapiente quos quia, delectus ipsa amet expedita libero nihil aspernatur voluptatibus.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-43-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-984-2000x1333.jpg",
                 "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ea quibusdam nemo deserunt. Iure dolorum laborum itaque. Dignissimos asperiores harum, unde nemo eum?",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               }
             ]
@@ -202,8 +202,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_anchor": "slider3-15"
+          "_name": "slider4",
+          "_anchor": "slider4-19"
         },
         {
           "_params": {
