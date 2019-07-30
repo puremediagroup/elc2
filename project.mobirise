@@ -28,7 +28,7 @@
     "siteUrl": "undefined",
     "google-analytics": "",
     "gdpr": "",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -130,85 +130,80 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "blast",
-            "theme": "absent",
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/facebook-cover-maker-for-a-rehab-center-page-1083a-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/facebook-cover-maker-for-a-rehab-center-page-1083a-820x312.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/facebook-cover-maker-for-a-rehab-center-page-1083a-85x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/dsc-475-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/dsc-475-2000x1333.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/dsc-475-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Modern <em>Design</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat corporis, illo omnis quos earum delectus, sunt quasi accusantium doloremque eveniet, eaque laboriosam quo eos temporibus!",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-32-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/dsc-32-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "SpaceM <em>Builder</em>",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab earum iure, repudiandae nobis ullam incidunt dicta molestiae libero, vel impedit doloribus dolorem ratione alias fugit.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-7064-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Made for <em>You</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita dignissimos explicabo non dolor nobis, consectetur officiis optio quibusdam, repellendus harum unde sed saepe odit, quisquam.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-43-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/dsc-43-2000x1333.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/dsc-43-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-630-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/dsc-630-2000x1333.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/dsc-630-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Website <em>Maker</em>",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>"
               }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "3",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
+            ]
           },
           "articleLayout": false,
-          "alias": "wowslider",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "alias": "spacem/components",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-10"
+          "_name": "slider3",
+          "_anchor": "slider3-15"
         },
         {
           "_params": {
@@ -258,11 +253,11 @@
             "showDate": true,
             "showImages": true,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/2.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1084.jpeg",
             "bgColorRadio": false,
             "bgColor": "#000000",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/fZy4jkBXfLI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=fZy4jkBXfLI&list=PLGmxyVGSCDKvmLInHxJ9VdiwEb82Lxd2E&index=315",
@@ -287,7 +282,7 @@
             }
           },
           "date1": "10/09/2016",
-          "title2": "<a href=\"http://mobirise.com\">Mobile response</a>",
+          "title2": "OUR CURRENT MESSAGE",
           "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
           "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
           "media2": {
@@ -345,8 +340,8 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "showTitle": true,
-            "showSubtitle": true,
+            "showTitle": false,
+            "showSubtitle": false,
             "showText": true,
             "showImages": true,
             "showButtons": true,
